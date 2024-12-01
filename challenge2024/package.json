@@ -1,0 +1,14 @@
+{
+  "name": "challenge2024",
+  "version": "1.0.0",
+  "scripts": {
+    "day01": "npx tsx src/day01.ts",
+    "day01.2": "npx tsx src/day01.2.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/node": "^22.10.1"
+  }
+}

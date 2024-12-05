@@ -2,8 +2,11 @@
   "name": "challenge2024",
   "version": "1.0.0",
   "scripts": {
-    "day01": "npx tsx src/day01.ts",
-    "day01.2": "npx tsx src/day01.2.ts"
+    "day03.2": "npx tsx src/day03.2.ts",
+    "day03": "npx tsx src/day03.ts",
+    "day02": "npx tsx src/day02.ts",
+    "day01.2": "npx tsx src/day01.2.ts",
+    "day01": "npx tsx src/day01.ts"
   },
   "author": "",
   "license": "ISC",

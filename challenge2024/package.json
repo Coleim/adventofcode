@@ -2,6 +2,8 @@
   "name": "challenge2024",
   "version": "1.0.0",
   "scripts": {
+    "day06.2": "npx tsx src/day06.2.ts",
+    "day06": "npx tsx src/day06.ts",
     "day05.2": "npx tsx src/day05.2.ts",
     "day05": "npx tsx src/day05.ts",
     "day04.2": "npx tsx src/day04.2.ts",

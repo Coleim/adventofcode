@@ -1,0 +1,32 @@
+{
+  "name": "challenge2024",
+  "version": "1.0.0",
+  "scripts": {
+    "day11.2": "npx tsx src/day11.2.ts",
+    "day11": "npx tsx src/day11.ts",
+    "day10.2": "npx tsx src/day10.2.ts",
+    "day10": "npx tsx src/day10.ts",
+    "day09.2": "npx tsx src/day09.2.ts",
+    "day09": "npx tsx src/day09.ts",
+    "day08": "npx tsx src/day08.ts",
+    "day07.2": "npx tsx src/day07.2.ts",
+    "day07": "npx tsx src/day07.ts",
+    "day06.2": "npx tsx src/day06.2.ts",
+    "day06": "npx tsx src/day06.ts",
+    "day05.2": "npx tsx src/day05.2.ts",
+    "day05": "npx tsx src/day05.ts",
+    "day04.2": "npx tsx src/day04.2.ts",
+    "day04": "npx tsx src/day04.ts",
+    "day03.2": "npx tsx src/day03.2.ts",
+    "day03": "npx tsx src/day03.ts",
+    "day02": "npx tsx src/day02.ts",
+    "day01.2": "npx tsx src/day01.2.ts",
+    "day01": "npx tsx src/day01.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/node": "^22.10.1"
+  }
+}
